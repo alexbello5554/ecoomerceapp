@@ -1,0 +1,7 @@
+{
+  "name": "ecoomerceapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
